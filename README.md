@@ -1,9 +1,5 @@
-# unet-eyetracking
-
-# Isha Puri
-# ishapuri101@gmail.com
-#2017
-#Work Done at Cox Lab, Harvard University
+# Isha Puri, ishapuri101@gmail.com
+2017, Work Done at Cox Lab, Harvard University
 
 # Accurate Tracking of Eye Movements Using Deep Learning with UNETS
 
