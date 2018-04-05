@@ -1,9 +1,11 @@
 # unet-eyetracking
 
-Isha Puri
-2017
-Work Done at Cox Lab, Harvard University
-Accurate Tracking of Eye Movements Using Deep Learning with UNETS
+# Isha Puri
+# ishapuri101@gmail.com
+#2017
+#Work Done at Cox Lab, Harvard University
+
+# Accurate Tracking of Eye Movements Using Deep Learning with UNETS
 
 ________________ ________________ ________________ ________________ ________________
 UnetTrainTest.py is the file that contains the training and testing code for both pupil and corneal models. 
