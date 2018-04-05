@@ -19,7 +19,8 @@ Terminal Commands for execution:
     - python UnetTrainTest.py train corneal
 ________________ ________________ ________________ ________________ ________________
 
-The datasets folder includes all of the training/testing data (for both corneal and pupil models). Model was trained on rodents but works on most human eyes as well. ________________ ________________ ________________ ________________ ________________
+The datasets folder includes all of the training/testing data (for both corneal and pupil models). Model was trained on rodents but works on most human eyes as well. 
+________________ ________________ ________________ ________________ ________________
 
 original_pupil.h5 contains the weights for the pupil model. 
 original_corneal.h5 contains the weights for the corneal model. 
